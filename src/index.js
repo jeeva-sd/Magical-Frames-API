@@ -5,7 +5,11 @@ import MongoDBConnection from '../src/database/connection.js';
 
 const app = express();
 const port = process.env.PORT || 3000;
+const corsOptions = {
+    origin: 'https://magical-frames-api.onrender.com'
+};
 
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use('/movie', movieRoutes);
 app.get('/', (_req, res) => res.send('Magical Frames'));
