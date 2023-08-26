@@ -6,7 +6,7 @@ import MongoDBConnection from '../src/database/connection.js';
 const app = express();
 const port = process.env.PORT || 3000;
 const corsOptions = {
-    origin: 'https://magical-frames-api.onrender.com'
+    origin: '*'
 };
 
 app.use(cors(corsOptions));
