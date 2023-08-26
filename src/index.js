@@ -1,4 +1,5 @@
 import express from 'express';
+import cors from 'cors';
 import 'dotenv/config';
 import movieRoutes from '../src/controller/movie.js';
 import MongoDBConnection from '../src/database/connection.js';
