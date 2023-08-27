@@ -10,7 +10,6 @@ const errorMessage = 'Internal server error';
 movieRouter.get('/list', async (_req, res) => {
     try {
         const movies = await Movie.find();
-        console.log(movies);
         res.json({ data: movies, message: 'Movies fetched' });
     } catch (error) {
         res.status(500).json({ message: errorMessage });
