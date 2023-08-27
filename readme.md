@@ -3,16 +3,15 @@ This project is an API backend for a movie recommendation platform. It is built 
 
 ## Installation
 1. Clone the repository:
-git clone <repository-url>
+git clone https://github.com/jeeva-sd/Magical-Frames-API
 
 2. Navigate to the project directory:
-cd movie-recommendation-api
+cd Magical-Frames-API 
 
 3. Install the dependencies:
 npm install
 
-4. Create a `.env` file in the root directory and add your MongoDB connection URL:
-MONGODB_URI=<your-mongodb-connection-url>
+4. Create a `.env` file in the root directory and add your MongoDB connection URL
 
 5. Start the server:
 npm start
