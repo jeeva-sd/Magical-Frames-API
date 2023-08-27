@@ -1,5 +1,5 @@
 export const validateAdd = (req, res, next) => {
-    const requiredFields = ['imageurl', 'genre', 'imdbrating', 'released', 'type', 'synopsis', 'title'];
+    const requiredFields = ['imageurl', 'genre', 'imdbrating', 'released', 'type', 'synopsis', 'title', 'favorite'];
 
     for (const field of requiredFields) {
         if (!req.body[field]) {

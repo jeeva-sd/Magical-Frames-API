@@ -4,6 +4,7 @@ const movieSchema = new mongoose.Schema({
     imageurl: [String],
     genre: [String],
     imdbid: String,
+    favorite: Boolean,
     title: String,
     imdbrating: Number,
     released: Number,

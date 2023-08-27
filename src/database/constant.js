@@ -13,6 +13,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A father's tradition of inviting less fortunate guest for Christmas takes a tragic turn when he is murdered. One year later, his daughter decides to honor his memory by carrying on the ..."
     },
     {
@@ -25,6 +26,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Adapted for screen from the novel, The WheelHouse, Pt. II: Death of a White Knight, Twice As Strong: Made of Fire is a story about a man who loses his faith and no longer finds any reason ..."
     },
     {
@@ -39,6 +41,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work."
     },
     {
@@ -55,6 +58,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A outsider comes to town and meets Three people in town as she meets them she gets each of them to become her friend and accept her for who she is, A LGBT movie about People Accepting people for who they are."
     },
     {
@@ -69,6 +73,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -83,6 +88,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "1970, American sweetheart Michelle Phillips is untangling herself from a recent marriage to the leader of the Mamas and the Papas, John Phillips. Pressure to record a final album for the ..."
     },
     {
@@ -97,6 +103,7 @@ export const movieData = [
         "imdbrating": 7.6,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A young low-level drug dealer is reunited with his estranged mom and uncle to protect him when a ruthless drug kingpin puts a hit on him."
     },
     {
@@ -112,6 +119,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "After a life altering trauma, Zouzou, a therapist, seeks a fresh start in a new home. As she attempts to focus on her own fledgling art career, she soon realizes you can't outrun memories. ..."
     },
     {
@@ -124,6 +132,7 @@ export const movieData = [
         "imdbrating": 8,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -140,6 +149,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A family consisting of three brothers are on the same baseball team coached by their father, with the determination to win a little league championship they try to keep their family together while taking on opposing forces."
     },
     {
@@ -152,6 +162,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -166,6 +177,7 @@ export const movieData = [
         "imdbrating": 8.2,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "An incoming ballistic missile to Hawaii changes twelve people's lives when they discover they have 20 minutes to live."
     },
     {
@@ -180,6 +192,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The THIRD ACT is a New Mexico film, produced and directed in the never-done-before, never-heard-of style of live theater. Behind the scenes, we'll host a special guest tasked with mentoring..."
     },
     {
@@ -194,6 +207,7 @@ export const movieData = [
         "imdbrating": 4,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "'The Visit' is a feature length anthology horror film from Talkinglens Productions. Each story revolves around different characters and situations, yet they all have one thing in common; they're set in the same house."
     },
     {
@@ -210,6 +224,7 @@ export const movieData = [
         "imdbrating": 9,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "While filming a documentary series about Appalachian folklore and mythology, a crew of amateur filmmakers uncover the legend of a mysterious box hidden away deep in a wilderness area known ..."
     },
     {
@@ -222,6 +237,7 @@ export const movieData = [
         "imdbrating": 9,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A psychologist practicing conversion therapy has a chance encounter with a young gay activist, resulting in his own epiphany concerning the very practice he was conducting."
     },
     {
@@ -236,6 +252,7 @@ export const movieData = [
         "imdbrating": 9,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Adam arrives on Tiamat, a world supposedly with no life forms, with a mission to activate an ancient outpost in a bid to start a process that will one day save his people. All is not as it seems."
     },
     {
@@ -252,6 +269,7 @@ export const movieData = [
         "imdbrating": 9,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A romantic comedy about a no name wanna be gangster by the name of Nick Sargenti and his goofy group of untalented misfits. The story focuses around Nick and Kim and their constant on again off again relationship."
     },
     {
@@ -264,6 +282,7 @@ export const movieData = [
         "imdbrating": 9,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -279,6 +298,7 @@ export const movieData = [
         "imdbrating": 2,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -294,6 +314,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "After discovering he might die soon, a timid young man along with his estranged and outrageous childhood friends, embark on a quest for closure on why the love of his life left."
     },
     {
@@ -308,6 +329,7 @@ export const movieData = [
         "imdbrating": 2,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Home Before Sunday is a feature length thriller that takes several college students into the woods for a fun camping and hiking trip near a beautiful waterfall way up in the north Georgia ..."
     },
     {
@@ -323,6 +345,7 @@ export const movieData = [
         "imdbrating": 9.8,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Based by the life of ISRO Scientist Nambi Narayanan who was falsely accused of being a spy and arrested in 1994. Though free, he is still fighting for justice, with those police officials alleged to have falsely implicated him, still free."
     },
     {
@@ -339,6 +362,7 @@ export const movieData = [
         "imdbrating": 5.7,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -353,6 +377,7 @@ export const movieData = [
         "imdbrating": 5,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Whilst searching for fear, fear unexpectedly finds them."
     },
     {
@@ -367,6 +392,7 @@ export const movieData = [
         "imdbrating": 5,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A journey on a ferry forces a mother to open up to her daughter about a traumatic early life experience at sea, but it becomes clear it is the daughter who needs to confront the past."
     },
     {
@@ -381,6 +407,7 @@ export const movieData = [
         "imdbrating": 5,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Emily is a young mother and a heroin addict facing the nightmare of losing her daughter if she can't put her life back together."
     },
     {
@@ -393,6 +420,7 @@ export const movieData = [
         "imdbrating": 5,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -407,6 +435,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "It is a story about the trials and tribulations that twenty people must face after the Apocalypse has begun and their lives cross paths."
     },
     {
@@ -419,6 +448,7 @@ export const movieData = [
         "imdbrating": 7.9,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A completely improvised film that looks at a relationship, from the first date to the last, over the course of 12 months."
     },
     {
@@ -431,6 +461,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -445,6 +476,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A group of friends Take a weekend long vacation only to end up in a deadly game of cat and mouse."
     },
     {
@@ -459,6 +491,7 @@ export const movieData = [
         "imdbrating": 8.4,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A mysterious black sphere is discovered in the orbit of Mars. The Achilles is sent to investigate. After the bedraggled six-person crew wake from eight months hibernation, the Sphere is ..."
     },
     {
@@ -473,6 +506,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2021,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Having turned his back on his family and the lure of crime in his younger years, Victor Escoto returns to the streets of his youth, now a detective for the Phoenix Police Department working..."
     },
     {
@@ -487,6 +521,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -501,6 +536,7 @@ export const movieData = [
         "imdbrating": 9.7,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -515,6 +551,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Two college students document Ryan Boothe's reentry into society after thirteen years in prison for the murder of his high school girlfriend."
     },
     {
@@ -529,6 +566,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Famous Show Director from Las Vegas Steven Leroy gets video link of the Kartvelian sword fighting dance from his daughter Mirrey. It makes him so impressed, that decides to leave Vegas, come to Sakartvelo and create an unforgettable show."
     },
     {
@@ -542,6 +580,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "In the early 1930s, a young man leaves Shanghai to come to Europe and reunite with the love of his life."
     },
     {
@@ -556,6 +595,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -570,6 +610,7 @@ export const movieData = [
         "imdbrating": 6,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This movie tells the story of Bill and Daisy Myers the 1st black family to move into a all white area in Levittown, PA and their racial harassment. Daisy Myers the Rosa Parks of the North lead the charge for housing discrimination laws."
     },
     {
@@ -584,6 +625,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Karate Champion known for his fighting/breaking skills, fights drug gangs to protect the youth of a small town."
     },
     {
@@ -598,6 +640,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "The powerful true story of an unlikely friendship between a young white actor and an elderly black homeless man in Los Angeles."
     },
     {
@@ -612,6 +655,7 @@ export const movieData = [
         "imdbrating": 3.7,
         "released": 2020,
         "type": "movie",
+        "favorite": false,
         "synopsis": "Based upon the short story by Edgar Allen Poe."
     },
     {
@@ -626,6 +670,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A year after returning home from war, Regg, has been struggling to get his life back together. When his soon to be brother-in-law suggests a boating trip; things take a turn for the worst ..."
     },
     {
@@ -642,6 +687,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "During a pandemic outbreak, a peace-loving man is forced on a desperate journey to find life-saving drugs for his wife but to get them he must first help an ornery old man defend his cabin against nefarious forces."
     },
     {
@@ -656,6 +702,7 @@ export const movieData = [
         "imdbrating": 5.6,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A young artist has a tragic accident but lives one dreamy last day visiting all the people in her life in New York City."
     },
     {
@@ -670,6 +717,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2023,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -684,6 +732,7 @@ export const movieData = [
         "imdbrating": 7,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "This existential drama follows an ailing movie director as he begins to shoot what he believes to be his final work of art. What starts out as a normal movie, ends up being an exploration of mortality and one's profound effect on the world."
     },
     {
@@ -700,6 +749,7 @@ export const movieData = [
         "imdbrating": 5.4,
         "released": 2022,
         "type": "movie",
+        "favorite": false,
         "synopsis": "A second American revolution begins in response to the tyrannical policies of the newly elected President of the United States and former Goldman Sachs executive James Worthington."
     }
 ]
